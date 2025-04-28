@@ -1,0 +1,1 @@
+1. Need to figure out if a 1uF or 1.5uF capacitor on the Voltage Channel Input lines is more appropriate
