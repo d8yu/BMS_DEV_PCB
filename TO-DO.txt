@@ -1,1 +1,7 @@
 1. Need to figure out if a 1uF or 1.5uF capacitor on the Voltage Channel Input lines is more appropriate
+2. Need to make schematic symbol for the isolator IC.
+3. Need to add Isolator IC and connect UART connections
+4. Need to find thermistors and connect them to the BMS GPIO Pins
+5. Need to calculate and find appropriate NPN transistor according to datasheet
+6. Need to verify accuracy of gnds
+
