@@ -1,6 +1,20 @@
--Need to adjust Digital Isolator IC to have correct direction orientation for UART TX and RX transmission
--Need to begin tracing of PCB, along with proper component placement. 
--Need to ensure protection against reverse polarity, and other little things if I can find them. 
--Need to study and ensure return pathways are unobstructed. 
--Need to research and figure out if my power supply scheme is appropriate for the digital isolator IC
+IC and Datasheets:
 -Need to dig through BMS IC datasheet again to see if there are any other considerations to be made to make firmware development easier. 
+
+-Need to research and figure out if my power supply scheme is appropriate for the digital isolator IC
+
+-Need to ensure protection against reverse polarity, and other little things if I can find them.
+
+-Need to adjust Digital Isolator IC to have correct direction orientation for UART TX and RX transmission
+
+Tracing:
+-Need to begin tracing of PCB, along with proper component placement.
+
+-Need to study and ensure return pathways are unobstructed. 
+
+
+
+
+
+
+
