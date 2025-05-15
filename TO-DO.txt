@@ -3,3 +3,9 @@
 -Need to research and figure out if my power supply scheme is appropriate for the digital isolator IC
 -Need to dig through BMS IC datasheet again to see if there are any other considerations to be made to make firmware development easier. 
 -Need to place the RC filtering circuitry so that there is no obstruction for the return circuitry, then place it to work with the BMS IC
+
+
+
+-Need to research and implement impedance-matched traces for the Voltage-sensing traces. 
+-Need to research and implement gnd pour islands to make sure the BMS grounds are isolated. 
+
