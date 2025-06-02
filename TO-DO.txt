@@ -2,10 +2,5 @@
 Edge-Guards:
 	-Ensure protection against reverse-polarity
 
-Trace-redundacy checking:
-	-Ensure return pathways are unobstructed
-	-Make sure traces are appropriate width for power
-
 PCB additions:
 	-Add Status LED for balancing
-	-Add connectors for cells
