@@ -1,1 +1,1 @@
-This is a development board for a BMS
+<h1>BMS Development Board</h1>
